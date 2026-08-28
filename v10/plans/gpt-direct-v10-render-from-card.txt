@@ -1,0 +1,13 @@
+Use the uploaded photograph now and directly generate the finished Gathered Scenes Zine image in this response. Do not reply with a plan, explanation, or reusable prompt first.
+
+Treat the visual decision card below as a committed starting hypothesis, not a cage. Reinspect the photograph before rendering; when a card detail conflicts with visible evidence, trust the photograph while preserving the card's central visual mechanism.
+
+{{VISUAL_DECISION_CARD}}
+
+Build one decisive editorial composition rather than decorating a photograph. Let the canvas follow the source photograph's strongest direction and weight; do not default to a vertical 3:5 poster. Give the photographic material the role named in PHOTO_ROLE: crop, enlarge, isolate, fragment, cross a boundary, or underprint it as needed. Preserve the real photographic appearance of the punctum and PHOTO_KEEP details, especially faces, eyes, hands, gestures, relationships, distinctive objects, and essential light, but do not retain the whole source as an untouched rectangular slab unless the source geometry truly requires it.
+
+Make HERO_TRANSFORMATION a large designed illustration field with unmistakable visual authority. Derive every major printed shape from SOURCE_EVIDENCE. Make the photograph, illustration field, boundary, and the single source-sampled accent color obey SHARED_SKELETON, so they feel cut from one compositional event rather than layered as unrelated decorations. The accent color must perform the path and function stated in CHROMATIC_STRUCTURE; if removing it would leave the composition unchanged, redesign its placement. Use no generic icons, detached circles, arbitrary corner strokes, or motifs without visible source evidence.
+
+Preserve a shaped QUIET_FIELD and the specified EYE_PATH. The photographic anchor may cross into the printed field, and the printed field may echo or continue source geometry, but graphic treatment must not deform the protected punctum. Place only the specified MICRO_TEXT at the final resting point, small but readable. Render as a flat scanned paper collage with warm tactile fibers, crisp silkscreen or risograph masses, controlled halftone, restrained non-critical misregistration, irregular handmade transitions, and no mockup depth.
+
+Before returning, perform a visual quality gate at thumbnail scale: the punctum is unmistakable; the illustration field is bold rather than timid; photo, illustration, boundary, and color share the source-derived skeleton; the quiet field is composed rather than leftover; the structural color changes the eye path; and the result does not resemble a reusable photo-on-paper template. If any check fails, correct the image once internally, then return only the finished image.

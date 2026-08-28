@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scenes Gathered Zine v10"
+  short_description: "Source-specific paper artwork through a visual decision card"
+  default_prompt: "Use $scenes-gathered-zine-v10 to transform this photo into a bold, source-specific gathered-scenes paper artwork."
