@@ -1,34 +1,20 @@
 <div align="center">
 
-# 作者自己开发的网站已上线：https://zeejayzine.com/ 。  欢迎使用（接入GPT5.6+image2顶流模型，国内环境可用）
-
-## 自营 GPT / Claude 代充与成品号
-
-**严格筛选渠道商，提供完全正规的充值渠道与服务。**<br>
-欢迎访问 zine AI 充值卡网（已上线 Plus 代充、Pro 5x、20x 等等）：
-
-<a href="https://zeejayai.store/">
-  <img src="assets/brand/zine-ai-gpt-claude-recharge.png" alt="zine AI GPT 与 Claude 代充及成品号服务" width="82%">
-</a>
-
-**zine AI GPT 与 Claude 代充及成品号服务**<br>
-[zine AI 充值卡网：https://zeejayai.store/](https://zeejayai.store/)
-
----
-
-# 拾景zine
+# 拾景纸刊 · v10 社区 Fork
 
 ### GATHERED SCENES ZINE
 
-把普通画面，变成值得停留的一页。
+把普通画面，变成具有现场因果和视觉冲击力的一页。
 
-**作者 / Author · Zeejay0**
+**v10 maintainer · taa211**  ·  **upstream author · Zeejay0**
 
 [English](README.en.md) · [两种创作路径](#两种创作路径) · [开始使用](#开始使用) · [作品档案](#作品档案)
 
 </div>
 
-![拾景纸刊：把普通画面变成值得停留的一页](assets/brand/gathered-scenes-cover.jpg)
+![拾景纸刊：把普通画面变成具有现场因果和视觉冲击力的一页](assets/brand/gathered-scenes-cover.jpg)
+
+这是基于 [Zeejay0 原仓库](https://github.com/Zeejay0/gathered-scenes-zine-skill) 的个人非商业 Fork。上游 Skill 保持不变；本 Fork 额外提供 v10 的视觉决策卡、源照片因果链和直接出图流水线。改动清单见 [V10-MODIFICATIONS.md](V10-MODIFICATIONS.md)。
 
 > A SMALL PRESS FOR EVERYDAY SCENES.
 

@@ -1,18 +1,20 @@
 <div align="center">
 
-# Gathered Scenes Zine
+# Gathered Scenes Zine · v10 Community Fork
 
 ### 拾景纸刊
 
-Turning ordinary scenes into pages worth lingering over.
+Turning ordinary scenes into source-specific pages with stronger visual impact.
 
-**Author · Zeejay0**
+**v10 maintainer · taa211** · **upstream author · Zeejay0**
 
 [简体中文](README.md) · [Two creative paths](#two-creative-paths) · [Get started](#get-started) · [Scene archive](#scene-archive)
 
 </div>
 
 ![Gathered Scenes Zine cover](assets/brand/gathered-scenes-cover.jpg)
+
+This is a personal, non-commercial fork of [Zeejay0's upstream repository](https://github.com/Zeejay0/gathered-scenes-zine-skill). The upstream Skills remain intact; this fork adds the v10 visual-decision-card and direct-render workflow. See [V10-MODIFICATIONS.md](V10-MODIFICATIONS.md) for the change list.
 
 > A SMALL PRESS FOR EVERYDAY SCENES.
 
